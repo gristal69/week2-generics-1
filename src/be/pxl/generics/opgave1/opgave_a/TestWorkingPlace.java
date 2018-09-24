@@ -9,5 +9,6 @@ public class TestWorkingPlace {
 		//WorkingPlace<Vehicle> vehicleWorkingPlace = new WorkingPlace<>();
 		WorkingPlace<CircularSaw> otherWorkPlace = new WorkingPlace<>();
 		WorkingPlace<Motorized> motorizedWorkingPlace = new WorkingPlace<>();
+		//test
 	}
 }
